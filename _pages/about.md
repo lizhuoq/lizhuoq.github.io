@@ -115,4 +115,5 @@ Projects
 
 Competitions
 ======
-([**Rank 35 / 693, Sliver Medalist (Team Leader)**](https://www.kaggle.com/competitions/leap-atmospheric-physics-ai-climsim/leaderboard)) Jerry Lin, Zeyuan Hu, Sungduk Yu, Mike Pritchard, Ritwik Gupta, Tian Zheng, Walter Hannah, Laura Mansfield, Yongquan Qu, Margarita Geleta, Molly Lopez, Maja Rudolph, Ashley Chow, Walter Reade. (2024). LEAP - Atmospheric Physics using AI (ClimSim). Kaggle. https://kaggle.com/competitions/leap-atmospheric-physics-ai-climsim
+([**Rank 35 / 693, Sliver Medalist (Team Leader)**](https://www.kaggle.com/competitions/leap-atmospheric-physics-ai-climsim/leaderboard)) Jerry Lin, Zeyuan Hu, Sungduk Yu, Mike Pritchard, Ritwik Gupta, Tian Zheng, Walter Hannah, Laura Mansfield, Yongquan Qu, Margarita Geleta, Molly Lopez, Maja Rudolph, Ashley Chow, Walter Reade. (2024). LEAP - Atmospheric Physics using AI (ClimSim). Kaggle. https://kaggle.com/competitions/leap-atmospheric-physics-ai-climsim  
+([**Rank 4 / 172 (Solo)**](https://www.kaggle.com/competitions/2024-flame-ai-challenge/leaderboard)) Jen Zen Ho, Bassem Akoush, and Matthias Ihme. 2024 FLAME AI Challenge. https://kaggle.com/competitions/2024-flame-ai-challenge, 2024. Kaggle.
